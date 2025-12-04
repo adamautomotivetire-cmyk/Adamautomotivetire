@@ -18,7 +18,7 @@ Adam Automotive & Tire Shop provides fast and affordable automotive services, sp
 - 🔩 Wheel Bearing Service  
 
 📍 **Address:** 2009 Lane Ave, Jacksonville, FL  
-📞 **Phone:** (904) XXX-XXXX  
+📞 **Phone:** (904) 962-2805 
 ⭐ **Google Rating:** 5 Stars from happy customers!
 
 ---
@@ -31,34 +31,6 @@ Adam Automotive & Tire Shop provides fast and affordable automotive services, sp
 - 🌐 **Hosted on Vercel** – optimized for performance and reliability  
 - 💬 **Google & Facebook Page Integration**  
 
----
 
-## 🧠 Tech Stack
 
-| Layer | Tools Used |
-|-------|-------------|
-| Frontend | HTML5, CSS3, JavaScript |
-| Backend | Node.js (Vercel Serverless Functions) |
-| AI Integration | OpenAI GPT-4o-mini |
-| Communication | Nodemailer + Twilio (Email/SMS Confirmations) |
-| Hosting | Vercel |
-| Management | GitHub Repository + Environment Variables |
 
----
-
-## 🔧 Installation
-
-To run the project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/adamautomotivetire.git
-
-# Enter the project folder
-cd adamautomotivetire
-
-# Install dependencies (if using Node.js)
-npm install
-
-# Start the local server
-npm run dev
